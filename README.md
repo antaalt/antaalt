@@ -3,4 +3,4 @@ My name is Antoine, I am a french **graphics programmer** working in the video g
 
 Rust, Blender, trees & alpha test !
 
-Check [this](https://antaalt.github.io/protos-rs/) out
+Check [this](https://antaalt.github.io/protos-rs/) out ! (Webassembly compatible browser required)
