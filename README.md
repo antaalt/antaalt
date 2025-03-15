@@ -3,4 +3,4 @@ I am a french **graphics programmer** working in the video game industry who lov
 
 Rust, Blender, trees & alpha test !
 
-Check [this](https://antaalt.github.io/protos-rs/) out ! (Webassembly compatible browser required)
+Check [this](https://marketplace.visualstudio.com/items?itemName=antaalt.shader-validator) out !
